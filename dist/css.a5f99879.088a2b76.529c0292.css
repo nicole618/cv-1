@@ -1,0 +1,6 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#html{word-break:break-all;padding:10px}#div1{position:fixed;top:20px;left:50%;transform:translateX(-50%)}#div1:after,#div1:before{content:"";display:block;position:absolute}@media screen and (max-width:500px){#html{height:50vh;overflow:auto;border-bottom:5px solid rgba(0,0,0,.3)}#warper{height:50vh;position:relative}#div1{position:absolute;top:0;bottom:0;margin-top:auto;margin-bottom:auto}}
+
+
+
+
+/*# sourceMappingURL=/css.a5f99879.088a2b76.529c0292.css.map */
